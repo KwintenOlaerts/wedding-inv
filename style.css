@@ -7,3 +7,15 @@
 .nav-work{
     background-color: #96ccff;
 }
+
+/* @media screen and (min-width: 600px)
+.f-5-l, .f-subheadline-l {
+    font-size: 2rem;
+} */
+
+
+
+    /* @media only screen and (max-width: 600px) {
+        .f-5-l {
+font-size: 2em;        }
+      } */
